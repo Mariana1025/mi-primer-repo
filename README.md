@@ -1,1 +1,4 @@
-Mi nombre es Mariana Romucho, estudio la carrera de Arquitectura de Plataformas.Espero aprender a usar git y github para mejorar
+Mi nombre es Mariana Romucho, estudio la carrera de Arquitectura de Plataformas.Espero aprender a usar git y github para mejorar.
+
+Estoy aprendiendo git y GitHub en clase.
+
